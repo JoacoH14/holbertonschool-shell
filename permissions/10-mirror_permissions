@@ -1,2 +1,2 @@
 #!/bin/bash
-modo_olleh=$(stat -c "%a" olleh) chmod $modo_olleh hello
+modo_olleh=$(stat -c "%a" olleh), chmod $modo_olleh hello
